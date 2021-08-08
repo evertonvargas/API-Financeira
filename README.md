@@ -1,25 +1,44 @@
-API Finaceira 
-
----
+# API Finaceira 
+<br>
 
 ### Requisitos
 
-- [x] Deve ser possível criar uma conta
-- [x] Deve ser possível buscar o extrato bancário do cliente
-- [x] Deve ser possível realizar um depósito
-- [x] Deve ser possível realizar um saque
-- [x] Deve ser possível buscar o extrato bancário do cliente por data
-- [x] Deve ser possível atualizar os dados da conta do cliente
-- [x] Deve ser possível obter os dados da conta do cliente
-- [x] Deve ser possível deletar uma conta
+<br>
 
----
+- [✔️] Deve ser possivel Criar uma conta.
 
-## Regras de negócio
+- [✔️] Deve ser possivel buscar o extrato bancário do Cliente.
 
-- [x] Não deve ser possível cadastrar uma conta com CPF já existente
-- [x] Não deve ser possível fazer depósito em uma conta não existente
-- [x] Não deve ser possível buscar extrato em uma conta não existente
-- [x] Não deve ser possível fazer saque em uma conta não existente
-- [x] Não deve ser possível excluir uma conta não existente
-- [x] Não deve ser possível fazer saque quando o saldo for insuficiente
+- [✔️] Deve ser possivel Realizar um depósito.
+
+- [✔️] Deve ser possivel realizar um saque.
+
+- [✔️] Deve ser possivel buscar o extrato bancário do cliente por data.
+
+- [✔️] Deve ser possivel atualizar dados da conta do cliente .
+
+- [✔️] Deve ser possivel obter dados da conta do cliente.
+
+- [✔️] Deve ser possivel deletar uma conta.
+
+- [✔️] Deve ser possivel obter o saldo da conta.
+
+
+
+<br>
+
+### Regras de negócio
+
+<br>
+
+- [✔️] Não deve ser possivel cadastrar uma conta com cpf já existente.
+
+- [✔️] Não deve ser possivel fazer depósito em uma conta não existente.
+
+- [✔️] Não deve ser possivel buscar extrato em uma conta não existente .
+
+- [✔️] Não deve ser possivel fazer um saque em uma conta não existente .
+
+- [✔️] Não deve ser possivel fazer saque quando o saldo for insuficiente .
+
+- [✔️] Não deve ser possivel excluir uma conta não existente .
