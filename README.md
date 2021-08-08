@@ -1,9 +1,6 @@
 # API Finaceira 
-<br>
 
 ### Requisitos
-
-<br>
 
 - [✔️] Deve ser possivel Criar uma conta.
 
@@ -23,13 +20,10 @@
 
 - [✔️] Deve ser possivel obter o saldo da conta.
 
-
-
 <br>
 
 ### Regras de negócio
 
-<br>
 
 - [✔️] Não deve ser possivel cadastrar uma conta com cpf já existente.
 
